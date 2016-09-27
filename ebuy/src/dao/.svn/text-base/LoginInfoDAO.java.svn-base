@@ -1,0 +1,12 @@
+package dao;
+
+import po.*;
+
+public interface LoginInfoDAO {
+	//验证登录
+	public boolean checkuser(LOGININFO userinfo) throws Exception;
+	
+	
+
+	
+}

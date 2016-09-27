@@ -1,0 +1,6 @@
+-2016/09/25-15:04-U2-<Start>-------------
+util包中context.xml为tomcat8连接池配置文件
+若需要调用BaseDAO中的getConnectionWithPool()方法
+请将改配置文件复制到tomcat\conf文件夹下覆盖
+请注意提前备份！
+-2016/09/25-15:04-U2-<End>---------------

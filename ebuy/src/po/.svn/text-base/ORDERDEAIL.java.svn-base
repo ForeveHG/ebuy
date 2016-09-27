@@ -1,0 +1,70 @@
+package po;
+
+import java.util.Date;
+
+/**
+ * 订单详细信息
+ * @author Administrator
+ *
+ */
+public class ORDERDEAIL {
+	private String oid; //订单编号 
+	private String userid; //用户所属编号
+	private int ostatue; //订单状态
+	private Date date; //订单时间
+	private int ototal; //订单总金额
+
+	public ORDERDEAIL(String oid, String userid, int ostatue, Date dATE,
+			int ototal) {
+		this.oid = oid;
+		this.userid = userid;
+		this.ostatue = ostatue;
+		date = dATE;
+		this.ototal = ototal;
+	}
+
+	public ORDERDEAIL() {
+
+	}
+
+	public String getOid() {
+		return oid;
+	}
+
+	public void setOid(String oid) {
+		this.oid = oid;
+	}
+
+	public String getUserid() {
+		return userid;
+	}
+
+	public void setUserid(String userid) {
+		this.userid = userid;
+	}
+
+	public int getOstatue() {
+		return ostatue;
+	}
+
+	public void setOstatue(int ostatue) {
+		this.ostatue = ostatue;
+	}
+
+	public Date getDATE() {
+		return date;
+	}
+
+	public void setDATE(Date dATE) {
+		date = dATE;
+	}
+
+	public int getOtotal() {
+		return ototal;
+	}
+
+	public void setOtotal(int ototal) {
+		this.ototal = ototal;
+	}
+
+}

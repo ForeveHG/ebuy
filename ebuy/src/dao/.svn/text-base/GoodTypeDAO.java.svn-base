@@ -1,0 +1,12 @@
+package dao;
+
+import java.util.List;
+
+import po.GOODTYPE;
+
+public interface GoodTypeDAO {
+	public int addGoodType(GOODTYPE goodType) throws Exception;
+	public int delGoodType(GOODTYPE goodType) throws Exception;
+	public int updateGoodType(GOODTYPE goodType) throws Exception;
+	public List<GOODTYPE> queryGoodType(GOODTYPE goodType) throws Exception;
+}

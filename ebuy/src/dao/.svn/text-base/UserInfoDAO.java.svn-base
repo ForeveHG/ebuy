@@ -1,0 +1,11 @@
+package dao;
+import po.*;
+public interface UserInfoDAO {
+	
+	public int adduser(LOGININFO logininfo)throws Exception;
+	
+	
+	
+	public int edituser(USERINFO userinfo)throws Exception;
+
+}

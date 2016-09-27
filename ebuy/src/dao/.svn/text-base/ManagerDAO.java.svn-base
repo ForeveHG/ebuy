@@ -1,0 +1,20 @@
+package dao;
+import java.util.List;
+
+import po.*;
+
+public interface ManagerDAO {
+	
+	//验证管理员登录
+	public boolean checkMg(MANAGER manager) throws Exception;
+	
+	//删除用户
+	public int delt(String id) throws Exception;
+	
+	//查找用户
+	public List findUser(String where) throws Exception;
+	
+	//修改用户
+	public int edit(USERINFO userinfo) throws Exception;
+	
+}

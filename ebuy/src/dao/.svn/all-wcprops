@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/Team10/!svn/ver/45/ebuy/src/dao
+END
+GoodSmallTypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Team10/!svn/ver/12/ebuy/src/dao/GoodSmallTypeDAO.java
+END
+OrderDeailDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Team10/!svn/ver/11/ebuy/src/dao/OrderDeailDAO.java
+END
+LoginInfoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Team10/!svn/ver/29/ebuy/src/dao/LoginInfoDAO.java
+END
+GoodTypeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Team10/!svn/ver/12/ebuy/src/dao/GoodTypeDAO.java
+END
+UserInfoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Team10/!svn/ver/34/ebuy/src/dao/UserInfoDAO.java
+END
+GoodInfoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Team10/!svn/ver/45/ebuy/src/dao/GoodInfoDAO.java
+END
+OrderInfoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Team10/!svn/ver/42/ebuy/src/dao/OrderInfoDAO.java
+END
+ManagerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/Team10/!svn/ver/30/ebuy/src/dao/ManagerDAO.java
+END
+OrderDetailDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Team10/!svn/ver/42/ebuy/src/dao/OrderDetailDAO.java
+END
+BaseDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/Team10/!svn/ver/45/ebuy/src/dao/BaseDAO.java
+END
